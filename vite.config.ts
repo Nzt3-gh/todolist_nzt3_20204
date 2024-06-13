@@ -11,6 +11,6 @@ export default defineConfig({
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
-  }
+  },
   base: '/todolist_nzt3_20204/'
 })
